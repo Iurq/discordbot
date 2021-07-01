@@ -88,4 +88,4 @@ async def balance(ctx):
 
 
 
-bot.run('ODU5OTA5Mjk1ODYwMDg4ODYy.YNzi8A.ZhFu17LEjahkNSut1CiFlYAMDRY')
+bot.run('ODU5OTA5Mjk1ODYwMDg4ODYy.YNzi8A.W3ZE_66hIC_RMd5i2BYjqgfZZMA')
